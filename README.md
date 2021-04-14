@@ -4,7 +4,7 @@
 _I am new to python and have written this script based on my experience so far with python and I am sure that this script can be optimized and enhanced in much better way. Please do share your comments/review and optimization ideas._
 _
 
-** When python script is ran, it will follow the below sequence: **
+**When python script is run, it will follow the below sequence:**
 
 * The script will fetch a pre-upgrade report and the report will have information (like IP address, hostname, uptime, current version, current image, serial number, device model and device memory of the router) before it is upgraded.
 
@@ -24,3 +24,8 @@ _
 * Pre-Upgrade.csv
 * Post-Upgrade.csv
 * Logs.txt
+
+## Cisco IOS Upgrade in bulk for Cisco routers and Cisco Switches using Python script
+https://www.uccollabing.com/automate-cisco-router-and-switches-ios-upgrade-in-bulk-using-python/
+
+### Cisco IOS Upgrade in bulk for Cisco routers and Cisco Switches using Python script
