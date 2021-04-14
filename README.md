@@ -26,9 +26,13 @@ _
 * Logs.txt
 
 ## Cisco IOS Upgrade in bulk for Cisco routers and Cisco Switches using Python script
+
+Follow the below URL link to see the script.
 https://www.uccollabing.com/automate-cisco-router-and-switches-ios-upgrade-in-bulk-using-python/
 
 ### To see the demo, see the following YouTube video.
+
+Follow the below YouTube URL link to see the demo.
 https://youtu.be/MX-42YVoXL0
 
 
