@@ -35,6 +35,6 @@ https://www.uccollabing.com/automate-cisco-router-and-switches-ios-upgrade-in-bu
 
 Follow the below YouTube URL link to see the demo.
 
-https://youtu.be/MX-42YVoXL0
+https://www.youtube.com/watch?v=nxwfuHxBkKA
 
 
